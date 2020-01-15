@@ -105,5 +105,14 @@ C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bi
 C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\obj\Debug\netcoreapp3.1\WebAppSilownia.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\obj\Debug\netcoreapp3.1\Razor\Pages\Forms\RegistrationForm.cshtml.g.cs
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
