@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using WebAppSilownia.Models;
+using static WebAppSilownia.Models.ClassFitBit;
+
 
 namespace WebAppSilownia
 {
@@ -25,8 +27,17 @@ namespace WebAppSilownia
             {
                 return Page();
             }
-            //TODO: save to database
+
+            RegisterModel Rmodel = new RegisterModel();
+            Rmodel.FirstName = HttpContext.Request.Form["txtName"].ToString();
+            Rmodel.LastName = HttpContext.Request.Form["txtLastName"].ToString();
+            Rmodel.Email = HttpContext.Request.Form["txtEmail"].ToString();
+            int result = Rmodel.SaveDetails();
+            
+
             return RedirectToPage("/Index");
         }
+
+
     }
 }

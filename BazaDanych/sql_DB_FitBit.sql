@@ -3,6 +3,8 @@ IF DB_ID('DB_FitBit') IS NULL
 -- Code for SQL Create Database
 CREATE DATABASE DB_FitBit
 
+USE DB_FitBit
+GO
 
 If OBJECT_ID('USERS', 'U') IS NULL
 CREATE TABLE dbo.USERS(
@@ -12,8 +14,12 @@ CREATE TABLE dbo.USERS(
 	u_Email VARCHAR(40) NOT NULL,
 	u_Username Varchar(20) NOT NULL,
 	u_Password Varchar(100) NOT NULL,
-)
+);
 
 
-GO
+--INSERT INTO USERS (u_Name, u_LastName, u_Email, u_Username, u_Password)
+--VALUES ('John', 'Doe', 'john@gmail.com', 'admin', 'admin')
+--VALUES ('Ellie', 'Doe', 'john@gmail.com', 'admin', 'admin')
+
+Select * from USERS
 -- ---------------------------------------------------------------------------
