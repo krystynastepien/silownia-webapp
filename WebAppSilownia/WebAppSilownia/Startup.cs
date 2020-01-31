@@ -10,7 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using WebAppSilownia.Models;
-using static WebAppSilownia.Models.ClassFitBit;
+
 //using Microsoft.EntityFrameworkCore.SqlServer;
 
 
@@ -30,10 +30,7 @@ namespace WebAppSilownia
         {
             services.AddRazorPages();
 
-            // Dodajê database service
-            var connection = @"Server=laptop-phb962he\onpro;Database=DB_FirBit;Trusted_Connection=True;";
-            services.AddDbContext<DB_FitBitContext>(options => options.UseSqlServer(connection));
-
+           
 
         }
 

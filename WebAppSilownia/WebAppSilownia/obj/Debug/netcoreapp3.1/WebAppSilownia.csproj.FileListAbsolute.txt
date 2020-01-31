@@ -141,3 +141,4 @@ C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bi
 C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
 C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
 C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\obj\Debug\netcoreapp3.1\WebAppSilownia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kryst\Documents\GITHUB\silownia-webapp\WebAppSilownia\WebAppSilownia\obj\Debug\netcoreapp3.1\Razor\Pages\Forms\LoginForm.cshtml.g.cs

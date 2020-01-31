@@ -1,0 +1,16 @@
+﻿@page
+@model WebAppSilownia.LoginFormModel
+@{
+    ViewData["Title"] = "Login Form";
+}
+
+<h1>LoginForm</h1>
+
+
+<form method="post">
+    
+    <input type="text" asp-for="Login.Username" placeholder="Username " /><br /><br />
+    <input type="text" asp-for="Login.Password" placeholder="Password " /><br /><br />
+
+    <button type="submit">Submit</button><button type="reset">Reset</button>
+</form>
